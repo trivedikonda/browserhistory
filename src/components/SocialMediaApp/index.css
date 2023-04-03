@@ -1,0 +1,48 @@
+.app-details {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+  justify-content: space-between;
+  font-family: 'Roboto';
+}
+
+.abt-app {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.time {
+  margin-right: 25px;
+  font-size: 10px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.domain-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 18px;
+}
+
+.title {
+  color: #000000;
+  font-size: 15px;
+  margin-right: 8px;
+}
+
+.domain-url {
+  color: #64748b;
+  font-size: 13px;
+}
+
+.dlt-btn {
+  cursor: pointer;
+  object-fit: cover;
+  outline: none;
+  height: 15px;
+  outline: none;
+  border: none;
+  width: 15px;
+}
